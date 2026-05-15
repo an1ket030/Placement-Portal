@@ -1,0 +1,34 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Flask/runtime state
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Celery/Redis generated files
+celerybeat-schedule*
+dump.rdb
+
+# Generated or uploaded application files
+backend/static/exports/*
+backend/static/reports/*
+backend/static/resumes/*
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local notes/submission artifacts
+ans.md
+ans2.md
+ans.pdf
+mad1_vs_mad2_report.md.resolved
+mad2_viva_answers.md
