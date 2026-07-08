@@ -1,4 +1,4 @@
-# Placement Portal (MAD2) - Complete Setup & Testing Guide
+# Placement Portal  - Complete Setup & Testing Guide
 
 This guide will walk you through exactly how to start this project from scratch and test all its features, written in simple, easy-to-follow steps.
 
